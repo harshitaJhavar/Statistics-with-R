@@ -1,9 +1,5 @@
 
 
-#### INTERACTIVE MAP OF WORLD POPULATION 1950-2010 ####
-#### Marco Ghislanzoni, 2013
-#### http://marcoghislanzoni.com
-
 # Load the rworldmap library
 library(rworldmap)
 # And the manipulate library
